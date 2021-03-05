@@ -2,13 +2,10 @@
 
 def task1(n):
   """
+  TODO:
+  
   Implement fibonacci
   """
-  # if n == 1:
-  #   return 1
-  # elif n == 2:
-  #   return 2
-  # return task1(n-1) + task1(n-2)
   return 0
 
 

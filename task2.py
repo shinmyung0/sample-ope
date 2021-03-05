@@ -1,13 +1,9 @@
 def task2(nums):
   """
+  TODO:
+  
   Implement contains duplicate
   """
-  # seen = set()
-
-  # for n in nums:
-  #   if n in seen:
-  #     return True
-  #   seen.add(n)
   return False
   
 
